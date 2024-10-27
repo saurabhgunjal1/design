@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "616c",
+      "WidgetDescription": "lkpo",
+      "Visibility": true,
+      "ValueType": "",
+      "Height": 100,
+      "Width": "400",
+      "Xpos": "02",
+      "Ypos": "02",
+      "MarginLeft": "-54",
+      "MarginRight": "-4",
+      "MarginTop": "02",
+      "MarginBottom": "-1",
+      "PaddingLeft": "-1",
+      "PaddingRight": "02",
+      "PaddingTop": "02",
+      "PaddingBottom": "02",
+      "TransparencyPercentage": "02",
+      "Border": "-9",
+      "OverflowWrap": "normal",
+      "BlockSize": "5022",
+      "Tooltip": false,
+      "TooltipText": "sample tt1",
+      "Layer": "02",
+      "ImportedImage": [
+        {
+          "name": "Designer (1).png",
+          "type": "image/png",
+          "size": 1835227,
+          "lastModified": 1711514186557,
+          "url": "blob:http://localhost:3000/8e2a7bca-d8cc-48e4-93b9-f2af02e44f3d"
+        }
+      ],
+      "component": "backgroundImage"
+    }
+  ]
+}
